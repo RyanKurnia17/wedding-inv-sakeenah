@@ -6,9 +6,9 @@ const config = {
     description:
       "Kami akan menikah dan mengundang Anda untuk turut merayakan momen istimewa ini.", // Nanti ini dibikin random
     // Groom's name
-    groomName: "Fulan",
+    groomName: "Rojak",
     // Bride's name
-    brideName: "Fulana",
+    brideName: "Anisa",
     // Groom's parents names
     parentGroom: "Bapak Groom & Ibu Groom",
     // Bride's parents names
